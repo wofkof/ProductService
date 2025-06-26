@@ -168,3 +168,4 @@
 /Users/wofkof/ProductService/ProductService.Api/obj/Debug/net8.0/ProductService.Api.pdb
 /Users/wofkof/ProductService/ProductService.Api/obj/Debug/net8.0/ProductService.Api.genruntimeconfig.cache
 /Users/wofkof/ProductService/ProductService.Api/obj/Debug/net8.0/ref/ProductService.Api.dll
+/Users/wofkof/ProductService/ProductService.Api/obj/Debug/net8.0/ProductService.Api.sourcelink.json
